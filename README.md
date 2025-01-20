@@ -1,6 +1,6 @@
 # Grand-Prix-Terminal
 
-**Grand Prix Terminal** Es un juego de carreras diseñado para ejecutarse en la terminal (Windows/Linux) echo en Python. En este juego, los jugadores pueden observar cómo compiten diferentes camiones hacia la meta, acompañado de efectos visuales y animaciones ASCII.
+**Grand Prix Terminal** Es un juego de carreras diseñado para ejecutarse en la terminal (Windows/Linux) echo en Python. En este juego, los jugadores pueden observar cómo compiten diferentes coches hacia la meta, acompañado de efectos visuales y animaciones ASCII.
 
 ---
 
@@ -29,15 +29,15 @@
    ```
 3. Ejecuta el script principal:
    ```bash
-   python main.py
+   python GrandPrixTerminal.py
    ```
 
 ---
 
 ## Cómo Jugar
 1. Ejecuta el programa.
-2. Observa la introducción animada y el inicio de la carrera.
-3. Sigue el progreso de los camiones en tiempo real mientras compiten.
+2. Observa la introducción previa al inicio de la carrera.
+3. Sigue el progreso de los coches en tiempo real mientras compiten.
 4. ¡Disfruta del espectáculo y celebra al ganador!
 
 ---
