@@ -21,7 +21,7 @@
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/grand-prix-terminal.git
+   git clone https://github.com/Daniel-Humberto/grand-prix-terminal.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
