@@ -43,7 +43,7 @@
 ---
 
 ## Archivos Principales
-- `main.py`: Contiene el código principal del juego.
+- `GrandPrixTerminal.py`: Contiene el código principal del juego.
 - `README.md`: Información del proyecto.
 
 ---
@@ -54,5 +54,5 @@ Desarrollado por [Daniel Humberto].
 ---
 
 ## Licencia
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+Este proyecto está licenciado bajo la [Licencia GNU](LICENSE).
 
