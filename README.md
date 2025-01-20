@@ -29,7 +29,7 @@
    ```
 3. Ejecuta el script principal:
    ```bash
-   python GrandPrixTerminal.py
+   python3 GrandPrixTerminal.py
    ```
 
 ---
