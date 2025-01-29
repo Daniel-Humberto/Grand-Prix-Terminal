@@ -59,8 +59,8 @@
 
 ---
 
-## Créditos
-Desarrollado por Daniel Humberto.
+## Contacto
+Si tienes preguntas o sugerencias no dudes en contáctarme
 
 ---
 
